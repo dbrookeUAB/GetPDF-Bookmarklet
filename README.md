@@ -14,9 +14,5 @@ This is a regular paragraph.
 
 This is another regular paragraph.
 
-[Hello Bookmarklet]("javascript:void\(window.open\(document.evaluate\('//div/a\[contains\(@class,\'download\'\) and starts-with\(@href, \'/\'\) and substring\(@href, string-length(@href\) - 3)= \'.pdf\'\]',document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null\).singleNodeValue,'_blank'\)\)")
-
-
-<table><a src="javascript:void\(window.open\(document.evaluate\('//div/a\[contains\(@class,\'download\'\) and starts-with\(@href, \'/\'\) and substring\(@href, string-length(@href\) - 3)= \'.pdf\'\]',document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null\).singleNodeValue,'_blank'\)\);"> GetPDF! </a><table>
-    
+    <a href="https://www.google.com"> TEST </a>
     
