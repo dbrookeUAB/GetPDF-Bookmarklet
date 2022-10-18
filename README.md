@@ -20,7 +20,4 @@ This is another regular paragraph.
 </a>
 
 
-<a href= 'https://www.google.com' >
-    <img src="bookmark.svg" width="50" height="50" >
-</a>
 
