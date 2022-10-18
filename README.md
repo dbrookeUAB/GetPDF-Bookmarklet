@@ -15,4 +15,4 @@ This is a regular paragraph.
 This is another regular paragraph.
 
 
-<img src="fa-crown.svg" width="50" height="50">
+<img src="bookmark.svg" width="50" height="50">
