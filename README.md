@@ -15,7 +15,7 @@ This is a regular paragraph.
 This is another regular paragraph.
 
 
-<a href= 'javascript:void(window.open(document.evaluate("//div/a[contains(@class, \"download\") and starts-with(@href, \"/\") and substring(@href, string-length(@href) - 3)= \".pdf\"]",%20document,%20null,%20XPathResult.FIRST_ORDERED_NODE_TYPE,%20null).singleNodeValue.getAttribute(\"href\"),\"_self\"))' >GetPDF!</a>
+<a href='javascript:void(window.open(document.evaluate("//div/a[contains(@class, \"download\") and starts-with(@href, \"/\") and substring(@href, string-length(@href) - 3)= \".pdf\"]",document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null).singleNodeValue,"_blank"))' >GetPDF!</a>
 
 
 
