@@ -4,4 +4,4 @@ A bookmarklet function that opens the pdf from the current website of an academi
 ## How
 You can either import the `GetPDF` files from this repository or you can make it manually.
 
-[![bookmarklet]("https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bookmark.svg")]("https://www.google.com")
+[![bookmarklet](bookmark.svg)]("https://www.google.com")
