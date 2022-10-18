@@ -13,3 +13,6 @@ This is a regular paragraph.
 </table>
 
 This is another regular paragraph.
+
+
+<img src="fa-crown.svg" width="50" height="50">
